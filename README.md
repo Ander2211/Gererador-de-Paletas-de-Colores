@@ -1,0 +1,1 @@
+# Gererador-de-Paletas-de-Colores
