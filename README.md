@@ -33,7 +33,7 @@ Una aplicación web moderna y elegante construida con **React** y **Vite** que p
    ```bash
    npm run dev
    ```
-5. Abrir el navegador en `http://localhost:5173`.
+5. Abrir el navegador en `https://paletix.netlify.app/`.
 
 ## 🎮 Controles
 
